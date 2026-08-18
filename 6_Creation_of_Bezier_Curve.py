@@ -46,5 +46,3 @@ plt.grid(True)
 plt.axis("equal")
 plt.legend()
 plt.show()
-
-
