@@ -46,7 +46,7 @@ xmax, ymax = 100, 80
 # ---------- Input ----------
 x1 = int(input("Enter x1: "))
 y1 = int(input("Enter y1: "))
-x2 = int(input("Enter x2: "))
+x2 = int(input("Enter x2: ") )
 y2 = int(input("Enter y2: "))
 
 ox1, oy1 = x1, y1

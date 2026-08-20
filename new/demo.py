@@ -131,7 +131,7 @@ def rotation(angle):
         t.penup()
         t.goto(0,0)
         t.dot(8,"red")
-
+ 
         turtle.update()
         time.sleep(0.03)
 
